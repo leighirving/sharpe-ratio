@@ -1,2 +1,4 @@
 # sharpe-ratio
-Calculates and compares profitability and risk of different investments using the Sharpe Ratio. Project taken from DataCamp.
+Calculates and compares profitability and risk of different investments using the Sharpe Ratio. 
+
+This project was done through DataCamp. 
