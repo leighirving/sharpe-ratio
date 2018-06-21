@@ -1,7 +1,7 @@
 # sharpe-ratio
 Calculates and compares profitability and risk of different investments using the Sharpe Ratio. 
 
-### Variables:
+### Attribute information:
 
 1. **Date**
 2. **Amazon**: Stock price for Amazon
